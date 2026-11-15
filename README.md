@@ -1,10 +1,12 @@
 # Star Wars: The Force Unleashed Raw Mouse Fix
 
 > [!WARNING]
-> This patch has been pretty much entirely been generated using AI;
-> I won't and will never claim to have enough knowledge or expertise to do this
-> kind of reverse-engineering by myself.
-> this patch currently probably only works for the Steam version of the game (Ultimate Sith Edition).
+> This patch has been pretty much entirely been generated using AI; 
+> I won't and will never claim to have enough knowledge or expertise to do this 
+> kind of reverse-engineering by myself; I've tested very briefly
+> and so far spotted no major issues (on my machine ofc, if you have issues feel free to open an Issue)
+> this patch currently probably only works for the latest Steam version of the game.
+> If you're interested and want more (human generated) info, I have a blog post [here](https://slop-blog.enkhayzomachines.net/posts/star-wars-the-force-unleashed-raw-input-mouse-fix) :)
 
 An ASI plugin for the 32-bit Steam version of *Star Wars: The Force Unleashed -
 Ultimate Sith Edition* that removes the mouse acceleration from the gameplay
